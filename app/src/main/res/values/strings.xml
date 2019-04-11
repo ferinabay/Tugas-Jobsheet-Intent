@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Register</string>
+    <string name="et_nama">Nama ..</string>
+    <string name="et_alamat">Alamat ..</string>
+    <string name="et_notelp">No Telepon ..</string>
+    <string name="btn_register">Register</string>
+    <string name="btn_share">Share</string>
+    <string name="activity2_name">Data Register</string>
+</resources>
